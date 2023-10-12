@@ -1,7 +1,9 @@
 # Extractive-Text-Summarization-Inspired-by-Google-PageRank
 
 
+
 ![page_rank](https://github.com/saahil1801/Extractive-Text-Summarization-Inspired-by-Google-PageRank/assets/84408557/8260d490-ddbc-420a-b3d5-307191ed3a0c)
+
 
 
 
